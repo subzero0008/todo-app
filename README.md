@@ -1,4 +1,6 @@
 # React Todo Application
+Check out the live app here: [Yuriev To-Do List](https://yuriev-to-do-list.netlify.app/)
+
 
 [![App Screenshot](https://i.postimg.cc/QtGNS6jL/image.png)](https://postimg.cc/bGgjw9GL)
 
