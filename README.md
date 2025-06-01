@@ -1,6 +1,7 @@
 # React Todo Application
 
-![App Screenshot](https://i.imgur.com/xYz1234.png)
+[![App Screenshot](https://i.postimg.cc/QtGNS6jL/image.png)](https://postimg.cc/bGgjw9GL)
+
 
 
 Todo application built with React, TypeScript and Vite with filtering functionality.
